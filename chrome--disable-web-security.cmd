@@ -1,1 +1,0 @@
-chrome-win32\chrome.exe --user-data-dir=..\myChromeData --allow-file-access-from-files --disable-web-security
